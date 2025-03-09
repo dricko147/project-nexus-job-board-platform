@@ -8,7 +8,7 @@ const AuthLayout = () => {
       <header className={styles.auth_header}>
         <div className={styles.logo}>
           <ImSphere />
-          JOB SPHERE
+          JOB NAIJA
         </div>
       </header>
       <main className={styles.main_content}>
