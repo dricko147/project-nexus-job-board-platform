@@ -15,9 +15,7 @@ const JobDescription = lazy(() => import('./pages/JobDescription'));
 const JobApplication = lazy(() => import('./pages/JobApplication'));
 const PostJob = lazy(() => import('./pages/PostJob'));
 const Contact = lazy(() => import('./pages/Contact'));
-const About = lazy(() => import('./pages/About'));
 const Privacy = lazy(() => import('./pages/Privacy'));
-const Terms = lazy(() => import('./pages/Terms'));
 const NotFound = lazy(() => import('./pages/NotFound'));
 const Join = lazy(() => import('./pages/Join'));
 const SignIn = lazy(() => import('./pages/SignIn'));
@@ -56,10 +54,8 @@ function App() {
             />
             <Route path="post-a-job" element={<PostJob />} />
             <Route path="contact" element={<Contact />} />
-            <Route path="about" element={<About />} />
-            <Route path="privacy-policy" element={<Privacy />} />
-            <Route path="terms-and-conditions" element={<Terms />} />
-          </Route>
+             <Route path="privacy-policy" element={<Privacy />} />
+             </Route>
         </Routes>
       </Suspense>
     </UserProvider>
