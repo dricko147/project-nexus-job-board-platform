@@ -11,17 +11,17 @@ const Contact = () => {
       <div className={styles.contact_info}>
         <div>
           <h3>Email</h3>
-          <p>support@jobsphere.com</p>
+          <p>contact@jobnaija.com</p>
         </div>
 
         <div>
           <h3>Phone</h3>
-          <p>+0 (123) 123-4567</p>
+          <p>(+234)8065627566</p>
         </div>
 
         <div>
           <h3>Office Address</h3>
-          <p>123 JobSphere Lane, Job City, Job 001</p>
+          <p>123 Karibu Lane, City, 001</p>
         </div>
       </div>
 

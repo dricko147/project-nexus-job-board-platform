@@ -16,6 +16,7 @@ const JobApplication = lazy(() => import('./pages/JobApplication'));
 const PostJob = lazy(() => import('./pages/PostJob'));
 const Contact = lazy(() => import('./pages/Contact'));
 const NotFound = lazy(() => import('./pages/NotFound'));
+
 const Join = lazy(() => import('./pages/Join'));
 const SignIn = lazy(() => import('./pages/SignIn'));
 function App() {
