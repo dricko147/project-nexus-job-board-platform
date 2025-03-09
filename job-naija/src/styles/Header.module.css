@@ -4,7 +4,7 @@
     z-index: 100;
     width: 100%;
     background: #FFD700;
-    box-shadow: 0 1px 10px rgba(0, 0, 0, 0.548);
+    box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
   }
   .header.static {
     position: static;
@@ -40,12 +40,12 @@
   .logo_link {
     font-size: 2rem;
     letter-spacing: 1px;
-    color: #0c77e2;
+    color: #2c3e50;
     height: 100%;
     display: flex;
     align-items: center;
     gap: 2px;
-    font-weight: 1100;
+    font-weight: 900;
   }
   .logo_link svg {
     width: 28px;
