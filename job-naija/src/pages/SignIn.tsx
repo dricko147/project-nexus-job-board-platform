@@ -44,7 +44,7 @@ const SignIn = () => {
         <div className={styles.auth_container}>
           <Link className={styles.back_link} to={'/'}>
             <IoArrowBackCircleSharp />
-            Back to website
+            Back
           </Link>
           {successMessage && (
             <MessageDisplayCard message={successMessage} type="success" />

@@ -449,10 +449,6 @@
         "languages": ["JavaScript"],
         "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Error fuga, a debitis tempore sunt dignissimos, aspernatur libero ducimus repellendus aliquam facere doloremque quidem sit soluta nemo, minima nobis architecto quasi ut doloribus laboriosam animi. Eum suscipit neque sint tempora tenetur.",
         "requirements": [
-          "Lorem, ipsum dolor sit amet ",
-          "consectetur adipisicing elit. Error fuga",
-          "a debitis tempore sunt dignissimos, aspernatur libero",
-          "ducimus repellendus aliquam facere doloremque quidem",
           "sit soluta nemo, minima nobis architecto",
           "quasi ut doloribus laboriosam animi. Eum suscipit",
           "neque sint tempora tenetur."
@@ -528,7 +524,7 @@
       {
         "id": "1",
         "jobId": "1",
-        "firstName": "binyam",
+        "firstName": "ebuni",
         "lastName": "Techan",
         "email": "email@example.com",
         "coverLetter": "I am excited to apply!",

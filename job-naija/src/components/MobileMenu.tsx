@@ -79,7 +79,7 @@ const MobileMenu: React.FC<MobileMenuProps> = ({ isOpen, onClose }) => {
           )}
           <span className={styles.mobile_menu_ftr}>
             <ImSphere />
-            Job Sphere
+            JOB NAIJA
           </span>
         </div>
       </div>

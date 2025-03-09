@@ -79,7 +79,7 @@ const Join = () => {
         <div className={styles.auth_container}>
           <Link className={styles.back_link} to={'/'}>
             <IoArrowBackCircleSharp />
-            Back to website
+            Back
           </Link>
 
           <div className={styles.auth_form_container}>
