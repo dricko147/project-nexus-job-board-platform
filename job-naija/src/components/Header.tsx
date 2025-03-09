@@ -45,17 +45,14 @@ const Header = () => {
             <li>
               <Link to="/contact">Contact us</Link>
             </li>
-            <li>
-              <Link to="/about">About</Link>
-            </li>
           </ul>
           {!user ? (
             <ul className={styles.nav_list_auth}>
               <li>
-                <Link to="/auth/sign-in" className={styles.sign_in}>Sign In</Link>
+                <Link to="/auth/sign-in" className={styles.sign_in}>Login</Link>
               </li>
               <li>
-                <Link to="/auth/join" className={styles.sign_up}>Register</Link>
+                <Link to="/auth/join" className={styles.sign_up}>Sign Up</Link>
               </li>
             </ul>
           ) : (
