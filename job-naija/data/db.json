@@ -14,7 +14,6 @@
       "location": "Nigeria",
       "languages": [
         "JavaScript"
-      
       ],
       "description": "We are seeking a talented Front-End Developer to join our development team. This role involves translating UI/UX designs into functional code, optimizing web applications for maximum speed and scalability, and ensuring our products deliver an exceptional user experience. The ideal candidate is skilled in front-end web technologies, has a keen eye for design, and is passionate about delivering high-quality digital products.",
       "requirements": [
@@ -45,7 +44,6 @@
       "location": "Abuja",
       "languages": [
         "Python"
-        
       ],
       "description": "We are seeking a talented Developer to join our development team. This role involves translating UI/UX designs into functional code, optimizing web applications for maximum speed and scalability, and ensuring our products deliver an exceptional user experience. The ideal candidate is skilled in front-end web technologies, has a keen eye for design, and is passionate about delivering high-quality digital products.",
       "requirements": [
@@ -117,7 +115,7 @@
         "CSS",
         "JavaScript"
       ],
-"description": "We are seeking a talented Social worker to join our development team. This role involves translating UI/UX designs into functional code, optimizing web applications for maximum speed and scalability, and ensuring our products deliver an exceptional user experience. The ideal candidate is skilled in front-end web technologies, has a keen eye for design, and is passionate about delivering high-quality digital products.",
+      "description": "We are seeking a talented Social worker to join our development team. This role involves translating UI/UX designs into functional code, optimizing web applications for maximum speed and scalability, and ensuring our products deliver an exceptional user experience. The ideal candidate is skilled in front-end web technologies, has a keen eye for design, and is passionate about delivering high-quality digital products.",
       "requirements": [
         "Develop new features for users ",
         "ensuring consistency and cross-platform responsiveness.",
@@ -340,7 +338,7 @@
       "id": "11",
       "company": " Face Lift Company",
       "logo": "/assets/images/faceit.svg",
-       "new": false,
+      "new": false,
       "featured": true,
       "position": "Graphic Designer",
       "role": "UI Designer",
@@ -602,6 +600,13 @@
       "lastName": "Eseka",
       "email": "caruso.eseka@gmail.com",
       "password": "$2b$10$m25qEcp0zslipbi663WKMejKPZRJ2od/1/MQb/cSK8AMyywW3ANBu"
+    },
+    {
+      "id": "0d85",
+      "firstName": ".;....",
+      "lastName": ",,,,",
+      "email": "caru.eseka@gmail.com",
+      "password": "$2b$10$4YoWdzqMEP6KEB2CPis.qeBmOEy8NJyCsMxaeGPPZi.HMKqdu2whC"
     }
   ],
   "applications": [
@@ -621,6 +626,15 @@
       "lastName": "Eseka",
       "email": "caruso.eseka@gmail.com",
       "coverLetter": "nnnn",
+      "resume": "Green and Cream Modern Beauty Service Price List.pdf"
+    },
+    {
+      "id": "4f42",
+      "jobId": "1",
+      "firstName": ".;....",
+      "lastName": ",,,,",
+      "email": "caru.eseka@gmail.com",
+      "coverLetter": "l,l,.,",
       "resume": "Green and Cream Modern Beauty Service Price List.pdf"
     }
   ]

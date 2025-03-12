@@ -91,11 +91,11 @@ const Home = () => {
               <p>Top Companies/Recruiters</p>
             </div>
             <div className={styles.stat_card}>
-              <h3>5K+</h3>
+              <h3>10K+</h3>
               <p>Successful Hires</p>
             </div>
             <div className={styles.stat_card}>
-              <h3>95%</h3>
+              <h3>93%</h3>
               <p>Satisfaction Rate</p>
             </div>
           </div>

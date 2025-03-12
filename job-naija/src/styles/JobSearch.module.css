@@ -74,7 +74,7 @@
     position: absolute;
     top: 4px;
     right: 4px;
-    background-color: black;
+    background-color: #ffd700;
   }
   .search_btn.filter {
     height: 32px;
@@ -130,7 +130,7 @@
     border: 1px solid #ddd;
     border-radius: 4px;
     z-index: 10;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+    box-shadow: 0 2px 8px #ffd700;
     list-style: none;
     padding: 0;
   }
