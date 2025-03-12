@@ -5,7 +5,7 @@ import {
   fetchJobById,
   fetchJobs,
   fetchJobSectors,
-} from '../api/jobs';
+} from '../assets/images/jobs';
 import { Job, JobCategory } from '../interfaces';
 
 const useJobs = () => {

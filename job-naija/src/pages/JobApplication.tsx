@@ -12,7 +12,7 @@ import { useUser } from '../hooks/useUser';
 import { GridLoader } from 'react-spinners';
 import { ApplicationFormDataState } from '../interfaces';
 import { validateApplicationForm } from '../utils/validationUtils';
-import { submitApplication } from '../api/jobs';
+import { submitApplication } from '../assets/images/jobs';
 
 const JobApplication: React.FC = () => {
   const { id } = useParams<{ category: string; id: string }>();

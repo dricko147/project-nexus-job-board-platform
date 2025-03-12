@@ -76,13 +76,13 @@ const Home = () => {
       </Container>
 
       <section className={styles.hiring_stats}>
-        <h2>Why Choose Job Sphere?</h2>
+        <h2>Why Choose Job Naija?</h2>
         <p>Thousands of job seekers and employers trust us. Here’s why:</p>
 
         <Container className='no_pad'>
           <div className={styles.stats_grid}>
             <div className={styles.stat_card}>
-              <h3>100K+</h3>
+              <h3>10K+</h3>
               <p>Jobs Listed</p>
             </div>
             <div className={styles.stat_card}>

@@ -6,10 +6,10 @@ const AuthLayout = () => {
   return (
     <div className={styles.App}>
       <header className={styles.auth_header}>
-        <div className={styles.logo}>
+        
           <ImSphere />
           JOB NAIJA
-        </div>
+      
       </header>
       <main className={styles.main_content}>
         <Outlet />

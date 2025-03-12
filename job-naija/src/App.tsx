@@ -54,7 +54,7 @@ function App() {
             />
             <Route path="post-a-job" element={<PostJob />} />
             <Route path="contact" element={<Contact />} />
-             <Route path="privacy-policy" element={<Privacy />} />
+            <Route path="privacy-policy" element={<Privacy />} />
              </Route>
         </Routes>
       </Suspense>

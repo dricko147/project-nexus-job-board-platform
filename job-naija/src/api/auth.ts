@@ -46,7 +46,7 @@ export const signUpUser = async (userData: {
     });
 
     return response.status === 201
-      ? { success: true }
+      ? { success: true, message: "Sign-up successful." }
       : { success: false, message: 'Sign-up failed. Please try again.' };
   } catch (err) {
     console.error('Sign-up error:', err);
