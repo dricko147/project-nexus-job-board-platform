@@ -1,54 +1,72 @@
-# React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ Features
+✅ API Data Integration
+Dynamically fetche job postings from a backend API.
+Implements error handling and loading states for a smooth experience.
+✅ Advanced Filtering Options
+Users can filter job listings by:
 
-Currently, two official plugins are available:
+Name, Category, Location.
+Experience Level (Junior-Level, Mid-Level, Senior)
+✅ Responsive & Accessible Design
+Fully responsive UI for desktop, tablet, and mobile devices.
+Ensures accessibility with ARIA guidelines and intuitive navigation.
+✅ Job Application Form
+User-friendly, validated application forms.
+Ensures proper input validation and error handling.
+✅ Job Sharing Options
+Share job postings via Facebook, X (Twitter), WhatsApp, and Email.
+Copy job link feature for easy sharing.
+🔧 Technologies Used
+Technology	Purpose
+React 19	Frontend framework
+React Router	Navigation management
+Context API	State management
+JSON Server	Mock backend API
+Axios	HTTP requests handling
+React Icons	UI enhancements
+React Spinners	Loading animations
+Dompurify	Prevents XSS attacks
+BcryptJS	Secure password hashing
+Vite	Fast development and build tool
+ESLint	Code quality enforcement
+🚀 Installation & Setup
+1️⃣ Install Dependencies
+npm install
+2️⃣ Set Up Environment Variables
+Create a .env file in the root of your project and add the following line
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3️⃣ download assets
 
-## Expanding the ESLint configuration
+VITE_API_URL=http://localhost:7000/
+4️⃣ Start the Development Server
+npm run dev
+5️⃣ Start JSON Server
+npx json-server --watch data/db.json --port 7000
+Ensure db.json contains mock job data for proper API responses.
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+🌐 Deployment
+The project can be deployed using Vercel or Netlify:
+Build the project:
+npm run build
+Deploy the dist folder to Vercel or Netlify.
+🔗 Live Demo
+Check out the live version of Job-Sphere here:
+https://job-naija-alx.vercel.app/
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+🎥 Video Demo
+Watch the demonstration of the project on YouTube:
+https://www.youtube.com/watch?v=
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+🔮 Future Enhancements
+🚀 Upcoming features:
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+Integrate with a real backend server for dynamic data handling and production-level performance.
+User authentication for personalized job recommendations.
+Real-time notifications for job updates.
+SEO optimization to improve job listing visibility.
+🎉 Thank You!
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+Feel free to contribute, report issues, or suggest improvements! 🚀
+
+📧 Contact: [fred.eseka@gmail.com]🔗 GitHub: [https://github.com/dricko147]
