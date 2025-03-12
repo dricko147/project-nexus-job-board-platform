@@ -109,7 +109,7 @@ const Home = () => {
         </Link>
       </section>
       <section className={styles.success_stories}>
-        <h2>Success Stories</h2>
+        <h2>FEEDBACKS</h2>
         <p>
           Hear from job seekers and employers who found success on our platform.
         </p>

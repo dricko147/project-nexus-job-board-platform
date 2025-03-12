@@ -1,65 +1,65 @@
-# project-nexus-job-board-platform - JOB NAIJA
+<h1># project-nexus-job-board-platform - JOB NAIJA</h1>
 This case study focuses on creating an interactive job board platform where users can explore, filter, and apply for job postings. The project emphasizes:  API Integration Advanced Filtering Techniques Responsive Design
 
 
- Web App Features
-✅ API Data Integration
+
+ <h2>Web App Features</h2>
+<h3>✅ API Data Integration</h3>
 Dynamically fetche job postings from a backend API.
 Implements error handling and loading states for a smooth experience.
-✅ Advanced Filtering Options
-Users can filter job listings by:
-
-Name, Category, Location.
-Experience Level (Junior-Level, Mid-Level, Senior)
-✅ Responsive & Accessible Design
+<h3>✅ Advanced Filtering Options</h3>
+<p>Users can filter job listings by:</p>
+<p>Name, Category, Location.</p>
+<p>Experience Level (Junior-Level, Mid-Level, Senior)</p>
+<h3>✅ Responsive & Accessible Design</h3>
 Fully responsive UI for desktop, tablet, and mobile devices.
 Ensures accessibility with ARIA guidelines and intuitive navigation.
-✅ Job Application Form
+<h3>✅ Job Application Form</h3>
 User-friendly, validated application forms.
 Ensures proper input validation and error handling.
-✅ Job Sharing Options
+<h3>✅ Job Sharing Options </h3>
 Share job postings via Facebook, X (Twitter), WhatsApp, and Email.
 Copy job link feature for easy sharing.
-🔧 Technologies Used
+
+<h2>🔧 Technologies Used</h2>
 Technology	Purpose
-React 19	Frontend framework
-React Router	Navigation management
-Context API	State management
-JSON Server	Mock backend API
-Axios	HTTP requests handling
-React Icons	UI enhancements
-React Spinners	Loading animations
-Dompurify	Prevents XSS attacks
-BcryptJS	Secure password hashing
-Vite	Fast development and build tool
-ESLint	Code quality enforcement
-🚀 Installation & Setup
-1️⃣ Install Dependencies
+React 19	- Frontend framework
+React Router - Navigation management
+Context - API	State management
+JSON Server - Mock backend API
+Axios -	HTTP requests handling
+React Icons	- UI enhancements
+Loading animations
+Dompurify -	Prevents XSS attacks
+BcryptJS - Secure password hashing
+Vite -	Fast development and build tool
+ESLint	- Code quality enforcement
+
+<h2>🚀 Installation & Setup</h2>
+<p>1️⃣ Install Dependencies</p>
 npm install
-2️⃣ Set Up Environment Variables
+<p>2️⃣ Set Up Environment Variables</p>
 Create a .env file in the root of your project and add the following line
 
-3️⃣ download assets
+<p>3️⃣ download assets<p>
 
 VITE_API_URL=http://localhost:7000/
-4️⃣ Start the Development Server
+<p>4️⃣ Start the Development Server</p>
 npm run dev
-5️⃣ Start JSON Server
+<p>5️⃣ Start JSON Server</p>
 npx json-server --watch data/db.json --port 7000
 Ensure db.json contains mock job data for proper API responses.
 
-🌐 Deployment
+<h2>🌐 Deployment</h2>
 The project can be deployed using Vercel or Netlify:
-Build the project:
-npm run build
-Deploy the dist folder to Vercel or Netlify.
-🔗 Live Demo
-Check out the live version of Job-Sphere here:
-https://job-naija-alx.vercel.app/
+Deploy the dist folder to Vercel.
+<p>🔗 Live Demo</p>
+Check out the live version of JobNaija here:
+<p>https://job-naija-alx.vercel.app/</p>
 
-🎥 Video Demo
+<p>🎥 Video Demo</p>
 Watch the demonstration of the project on YouTube:
-https://www.youtube.com/watch?v=
+<p>https://www.youtube.com/watch?v=</p>
 
 🔮 Future Enhancements
 🚀 Upcoming features:
@@ -72,4 +72,4 @@ SEO optimization to improve job listing visibility.
 
 Feel free to contribute, report issues, or suggest improvements! 🚀
 
-📧 Contact: [fred.eseka@gmail.com]🔗 GitHub: [https://github.com/dricko147]
+<p>📧 Contact: [fred.eseka@gmail.com]🔗 GitHub: [https://github.com/dricko147]</p>
