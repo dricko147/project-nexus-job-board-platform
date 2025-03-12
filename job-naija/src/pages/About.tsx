@@ -5,14 +5,14 @@ const About = () => {
       <div className={styles.about_container}>
       <h2 className={styles.heading}>About Job Sphere</h2>
       <p className={styles.subtext}>
-        Welcome to JobSphere, your ultimate destination for finding the perfect
+        Welcome to JobNaija, your ultimate destination for finding the perfect
         job or the ideal candidate.
       </p>
 
       <div className={styles.section}>
         <h3>Our Mission</h3>
         <p>
-          At JobSphere, we aim to bridge the gap between job seekers and
+          At JobNaija, we aim to bridge the gap between job seekers and
           employers by providing a seamless and interactive job search
           experience. We believe in making job hunting **efficient, accessible,
           and rewarding**.
@@ -50,10 +50,6 @@ const About = () => {
           **smarter, faster, and easier**.
         </p>
       </div>
-
-      <h3 className={styles.join_us}>
-        Join JobSphere and take the next step in your career journey!
-      </h3>
     </div>
   );
 };

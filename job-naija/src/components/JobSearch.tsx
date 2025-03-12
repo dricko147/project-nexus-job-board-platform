@@ -96,7 +96,7 @@ const JobSearch: React.FC<JobSearchProps> = ({
           }`}
           type="text"
           value={searchInput}
-          placeholder="Search position, company, role ..."
+          placeholder="Search jobs, companies, location ..."
           onChange={handleSearchTermInputChange}
         />
         {searchInput ? (

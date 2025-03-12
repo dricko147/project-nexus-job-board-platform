@@ -11,7 +11,7 @@ import {
     return (
       <footer className={styles.footer}>
         <div className={styles.footer_wrapper}>
-          <p>© 2025 Job Naija | All righst reserved.</p>
+          <p>© 2025 Job Naija | Ebuni All righst reserved.</p>
           <ul className={styles.platform_links}>
             <li>
               <Link to="/privacy-policy">Privacy policy</Link>

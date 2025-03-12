@@ -2,40 +2,39 @@
   "jobs": [
     {
       "id": "1",
-      "company": "Photosnap",
-      "logo": "/assets/images/photosnap.svg",
+      "company": " Face Lift Company",
+      "logo": "/assets/images/faceit.svg",
       "new": true,
-      "featured": true,
-      "position": "Senior Frontend Developer",
+      "featured": false,
+      "position": "Full Stack Engineer",
       "role": "Frontend",
       "level": "Senior",
-      "postedAt": "1d ago",
-      "contract": "Full Time",
-      "location": "USA",
+      "postedAt": "2d ago",
+      "contract": "Part Time",
+      "location": "Nigeria",
       "languages": [
-        "HTML",
-        "CSS",
         "JavaScript"
+      
       ],
-      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Error fuga, a debitis tempore sunt dignissimos, aspernatur libero ducimus repellendus aliquam facere doloremque quidem sit soluta nemo, minima nobis architecto quasi ut doloribus laboriosam animi. Eum suscipit neque sint tempora tenetur.",
+      "description": "We are seeking a talented Front-End Developer to join our development team. This role involves translating UI/UX designs into functional code, optimizing web applications for maximum speed and scalability, and ensuring our products deliver an exceptional user experience. The ideal candidate is skilled in front-end web technologies, has a keen eye for design, and is passionate about delivering high-quality digital products.",
       "requirements": [
-        "Lorem, ipsum dolor sit amet ",
-        "consectetur adipisicing elit. Error fuga",
-        "a debitis tempore sunt dignissimos, aspernatur libero",
-        "ducimus repellendus aliquam facere doloremque quidem",
-        "sit soluta nemo, minima nobis architecto",
-        "quasi ut doloribus laboriosam animi. Eum suscipit",
-        "neque sint tempora tenetur."
+        "Develop new features for users ",
+        "ensuring consistency and cross-platform responsiveness.",
+        "Translate UI/UX wireframes and designs into high-quality,",
+        "Collaborate with designers, other developers,",
+        "and other team members to integrate elements smoothly.",
+        "Implement best practices for web accessibility.",
+        "cross-browser compatibility, and user experience."
       ],
-      "salary": "$110,000 - $140,000",
+      "salary": "₦800,000 - ₦100,000",
       "tools": [],
       "slots": 2,
       "category": "Finance"
     },
     {
       "id": "2",
-      "company": "Manage",
-      "logo": "/assets/images/manage.svg",
+      "company": "Short Hop",
+      "logo": "/assets/images/shortly.svg",
       "new": true,
       "featured": true,
       "position": "Fullstack Developer",
@@ -43,21 +42,22 @@
       "level": "Mid Level",
       "postedAt": "1d ago",
       "contract": "Part Time",
-      "location": "Remote",
+      "location": "Abuja",
       "languages": [
         "Python"
+        
       ],
-      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Error fuga, a debitis tempore sunt dignissimos, aspernatur libero ducimus repellendus aliquam facere doloremque quidem sit soluta nemo, minima nobis architecto quasi ut doloribus laboriosam animi. Eum suscipit neque sint tempora tenetur.",
+      "description": "We are seeking a talented Developer to join our development team. This role involves translating UI/UX designs into functional code, optimizing web applications for maximum speed and scalability, and ensuring our products deliver an exceptional user experience. The ideal candidate is skilled in front-end web technologies, has a keen eye for design, and is passionate about delivering high-quality digital products.",
       "requirements": [
-        "Lorem, ipsum dolor sit amet ",
-        "consectetur adipisicing elit. Error fuga",
-        "a debitis tempore sunt dignissimos, aspernatur libero",
-        "ducimus repellendus aliquam facere doloremque quidem",
-        "sit soluta nemo, minima nobis architecto",
-        "quasi ut doloribus laboriosam animi. Eum suscipit",
-        "neque sint tempora tenetur."
+        "Develop new features for users ",
+        "ensuring consistency and cross-platform responsiveness.",
+        "Translate UI/UX wireframes and designs into high-quality,",
+        "Collaborate with designers, other developers,",
+        "and other team members to integrate elements smoothly.",
+        "Implement best practices for web accessibility.",
+        "cross-browser compatibility, and user experience."
       ],
-      "salary": "$110,000 - $140,000",
+      "salary": "₦1,200,000 - $1,500,000",
       "slots": 2,
       "category": "Finance",
       "categoryLink": "ict",
@@ -67,30 +67,32 @@
     },
     {
       "id": "3",
-      "company": "Account",
-      "logo": "/assets/images/account.svg",
+      "company": "Bloopers",
+      "logo": "/assets/images/loop-studios.svg",
       "new": true,
-      "featured": false,
-      "position": "Junior Frontend Developer",
+      "featured": true,
+      "position": "React Native Frontend Developer",
       "role": "Frontend",
-      "level": "Junior",
-      "postedAt": "2d ago",
-      "contract": "Part Time",
-      "location": "Remote",
+      "level": "Senior",
+      "postedAt": "1d ago",
+      "contract": "Full Time",
+      "location": "Hong Kong",
       "languages": [
-        "JavaScript"
+        "HTML & CSS",
+        "React & React Native",
+        "Typescript/JavaScript"
       ],
-      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Error fuga, a debitis tempore sunt dignissimos, aspernatur libero ducimus repellendus aliquam facere doloremque quidem sit soluta nemo, minima nobis architecto quasi ut doloribus laboriosam animi. Eum suscipit neque sint tempora tenetur.",
+      "description": "We are seeking a talented Front-End Developer to join our development team. This role involves translating UI/UX designs into functional code, optimizing web applications for maximum speed and scalability, and ensuring our products deliver an exceptional user experience. The ideal candidate is skilled in front-end web technologies, has a keen eye for design, and is passionate about delivering high-quality digital products.",
       "requirements": [
-        "Lorem, ipsum dolor sit amet ",
-        "consectetur adipisicing elit. Error fuga",
-        "a debitis tempore sunt dignissimos, aspernatur libero",
-        "ducimus repellendus aliquam facere doloremque quidem",
-        "sit soluta nemo, minima nobis architecto",
-        "quasi ut doloribus laboriosam animi. Eum suscipit",
-        "neque sint tempora tenetur."
+        "Develop new features for users ",
+        "ensuring consistency and cross-platform responsiveness.",
+        "Translate UI/UX wireframes and designs into high-quality,",
+        "Collaborate with designers, other developers,",
+        "and other team members to integrate elements smoothly.",
+        "Implement best practices for web accessibility.",
+        "cross-browser compatibility, and user experience."
       ],
-      "salary": "$110,000 - $140,000",
+      "salary": "$50,000 - $70,000",
       "slots": 2,
       "category": "Finance",
       "categoryLink": "ict",
@@ -101,8 +103,8 @@
     },
     {
       "id": "4",
-      "company": "MyHome",
-      "logo": "/assets/images/myhome.svg",
+      "company": "Eyecam Co.",
+      "logo": "/assets/images/eyecam-co.svg",
       "new": false,
       "featured": false,
       "position": "Social Worker",
@@ -115,17 +117,17 @@
         "CSS",
         "JavaScript"
       ],
-      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Error fuga, a debitis tempore sunt dignissimos, aspernatur libero ducimus repellendus aliquam facere doloremque quidem sit soluta nemo, minima nobis architecto quasi ut doloribus laboriosam animi. Eum suscipit neque sint tempora tenetur.",
+"description": "We are seeking a talented Social worker to join our development team. This role involves translating UI/UX designs into functional code, optimizing web applications for maximum speed and scalability, and ensuring our products deliver an exceptional user experience. The ideal candidate is skilled in front-end web technologies, has a keen eye for design, and is passionate about delivering high-quality digital products.",
       "requirements": [
-        "Lorem, ipsum dolor sit amet ",
-        "consectetur adipisicing elit. Error fuga",
-        "a debitis tempore sunt dignissimos, aspernatur libero",
-        "ducimus repellendus aliquam facere doloremque quidem",
-        "sit soluta nemo, minima nobis architecto",
-        "quasi ut doloribus laboriosam animi. Eum suscipit",
-        "neque sint tempora tenetur."
+        "Develop new features for users ",
+        "ensuring consistency and cross-platform responsiveness.",
+        "Translate UI/UX wireframes and designs into high-quality,",
+        "Collaborate with designers, other developers,",
+        "and other team members to integrate elements smoothly.",
+        "Implement best practices for web accessibility.",
+        "cross-browser compatibility, and user experience."
       ],
-      "salary": "$110,000 - $140,000",
+      "salary": "$40,000 - $50,000",
       "slots": 2,
       "category": "Social Science",
       "categoryLink": "ict",
@@ -142,7 +144,7 @@
       "level": "Mid Level",
       "postedAt": "1w ago",
       "contract": "Full Time",
-      "location": "Japan",
+      "location": "Nigeria",
       "languages": [
         "JavaScript"
       ],
@@ -156,7 +158,7 @@
         "quasi ut doloribus laboriosam animi. Eum suscipit",
         "neque sint tempora tenetur."
       ],
-      "salary": "$110,000 - $140,000",
+      "salary": "₦400,000 - ₦500,000",
       "slots": 2,
       "category": "ICT",
       "categoryLink": "ict",
@@ -176,7 +178,7 @@
       "level": "Junior",
       "postedAt": "2w ago",
       "contract": "Full Time",
-      "location": "UK",
+      "location": "Nigeria",
       "languages": [
         "Ruby"
       ],
@@ -190,7 +192,7 @@
         "quasi ut doloribus laboriosam animi. Eum suscipit",
         "neque sint tempora tenetur."
       ],
-      "salary": "$110,000 - $140,000",
+      "salary": "₦110,000 - ₦140,000",
       "slots": 2,
       "category": "ICT",
       "categoryLink": "ict",
@@ -200,7 +202,7 @@
     },
     {
       "id": "7",
-      "company": "Shortly",
+      "company": "Short Hop",
       "logo": "/assets/images/shortly.svg",
       "new": false,
       "featured": false,
@@ -224,7 +226,7 @@
         "quasi ut doloribus laboriosam animi. Eum suscipit",
         "neque sint tempora tenetur."
       ],
-      "salary": "$110,000 - $140,000",
+      "salary": "$40,000 - $50,000",
       "slots": 2,
       "category": "ICT",
       "categoryLink": "ict",
@@ -257,7 +259,7 @@
         "quasi ut doloribus laboriosam animi. Eum suscipit",
         "neque sint tempora tenetur."
       ],
-      "salary": "$110,000 - $140,000",
+      "salary": "$40,000 - $50,000",
       "slots": 2,
       "category": "ICT",
       "categoryLink": "ict",
@@ -292,7 +294,7 @@
         "quasi ut doloribus laboriosam animi. Eum suscipit",
         "neque sint tempora tenetur."
       ],
-      "salary": "$110,000 - $140,000",
+      "salary": "$40,000 - $50,000",
       "slots": 2,
       "category": "Finance",
       "categoryLink": "ict",
@@ -302,8 +304,8 @@
     },
     {
       "id": "10",
-      "company": "The Air Filter Company",
-      "logo": "/assets/images/the-air-filter-company.svg",
+      "company": " Face Lift Company",
+      "logo": "/assets/images/faceit.svg",
       "new": false,
       "featured": false,
       "position": "Front-end Dev",
@@ -311,7 +313,7 @@
       "level": "Junior",
       "postedAt": "1mo ago",
       "contract": "Part Time",
-      "location": "Canada",
+      "location": "Luxembourg",
       "languages": [
         "JavaScript"
       ],
@@ -325,7 +327,7 @@
         "quasi ut doloribus laboriosam animi. Eum suscipit",
         "neque sint tempora tenetur."
       ],
-      "salary": "$110,000 - $140,000",
+      "salary": "$20,000 - $30,000",
       "slots": 2,
       "category": "Business",
       "categoryLink": "ict",
@@ -336,9 +338,9 @@
     },
     {
       "id": "11",
-      "company": "Creative Studio",
-      "logo": "/assets/images/the-air-filter-company.svg",
-      "new": false,
+      "company": " Face Lift Company",
+      "logo": "/assets/images/faceit.svg",
+       "new": false,
       "featured": true,
       "position": "Graphic Designer",
       "role": "UI Designer",
@@ -359,7 +361,7 @@
         "quasi ut doloribus laboriosam animi. Eum suscipit",
         "neque sint tempora tenetur."
       ],
-      "salary": "$110,000 - $140,000",
+      "salary": "$35,000 - $40,000",
       "slots": 2,
       "category": "Education",
       "categoryLink": "ict",
@@ -370,8 +372,8 @@
     },
     {
       "id": "12",
-      "company": "Innovate Inc",
-      "logo": "/assets/images/the-air-filter-company.svg",
+      "company": " Face Lift Company",
+      "logo": "/assets/images/faceit.svg",
       "new": false,
       "featured": true,
       "position": "Product Manager",
@@ -393,7 +395,7 @@
         "quasi ut doloribus laboriosam animi. Eum suscipit",
         "neque sint tempora tenetur."
       ],
-      "salary": "$110,000 - $140,000",
+      "salary": "$30,000 - $40,000",
       "slots": 2,
       "category": "ICT",
       "categoryLink": "ict",
@@ -404,8 +406,8 @@
     },
     {
       "id": "13",
-      "company": "Vladn Inc",
-      "logo": "/assets/images/the-air-filter-company.svg",
+      "company": " Face Lift Company",
+      "logo": "/assets/images/faceit.svg",
       "new": false,
       "featured": true,
       "position": "DevOps enginner",
@@ -427,7 +429,7 @@
         "quasi ut doloribus laboriosam animi. Eum suscipit",
         "neque sint tempora tenetur."
       ],
-      "salary": "$110,000 - $140,000",
+      "salary": "$60,000 - $70,000",
       "slots": 2,
       "category": "ICT",
       "categoryLink": "ict",
@@ -461,7 +463,7 @@
         "quasi ut doloribus laboriosam animi. Eum suscipit",
         "neque sint tempora tenetur."
       ],
-      "salary": "$110,000 - $140,000",
+      "salary": "$20,000 - $25,000",
       "slots": 2,
       "category": "Business",
       "categoryLink": "ict",
@@ -481,7 +483,7 @@
       "level": "Senior",
       "postedAt": "1mo ago",
       "contract": "Full Time",
-      "location": "Ethiopia",
+      "location": "Remote",
       "languages": [
         "JavaScript"
       ],
@@ -495,7 +497,7 @@
         "quasi ut doloribus laboriosam animi. Eum suscipit",
         "neque sint tempora tenetur."
       ],
-      "salary": "$110,000 - $140,000",
+      "salary": "$15,000 - $20,000",
       "slots": 2,
       "category": "Education",
       "categoryLink": "ict",
@@ -525,7 +527,7 @@
         "quasi ut doloribus laboriosam animi. Eum suscipit",
         "neque sint tempora tenetur."
       ],
-      "salary": "$110,000 - $140,000",
+      "salary": "$70,000 - $80,000",
       "slots": 2,
       "category": "Engineering",
       "categoryLink": "ict",

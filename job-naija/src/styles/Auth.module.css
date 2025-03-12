@@ -48,7 +48,7 @@
     max-width: 400px;
     margin: auto;
     color: #fff;
-    border: 3px dashed #00366b;
+    border: 3px #00366b;
     position: relative;
   }
   .auth_loading {
@@ -136,7 +136,7 @@
   .form_btn {
     width: 100%;
     padding: 0.5rem;
-    background-color: #007bff;
+    background-color: #6eb9ff;
     color: white;
     border: none;
     text-align: center;

@@ -70,7 +70,7 @@
     height: 30px;
   }
   .dropdownItem:hover {
-    background-color: #f4f4f4;
+    background-color: #ffd700;
   }
   
   @media only screen and (max-width: 770px) {

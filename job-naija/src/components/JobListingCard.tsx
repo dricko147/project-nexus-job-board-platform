@@ -11,7 +11,7 @@ interface JobListingCardProps {
 const JobListingCard: React.FC<JobListingCardProps> = ({ job }) => {
   return (
     <article className={styles.job_card}>
-      {job.featured && <span className={styles.featured_tag}>Featured</span>}
+      {job.featured && <span className={styles.featured_tag}>Top Jobs</span>}
       <JobListingCardHeader job={job} />
       <div>
         <span className={styles.level}>{job.level},</span>
@@ -22,7 +22,7 @@ const JobListingCard: React.FC<JobListingCardProps> = ({ job }) => {
         <strong>{job.salary}</strong>
       </div>
       <Link to={`/jobs/${encodeURIComponent(job.category)}/${job.id}`}>
-        View Details
+        Job Details
       </Link>
     </article>
   );
