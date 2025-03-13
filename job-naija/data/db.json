@@ -607,6 +607,13 @@
       "lastName": ",,,,",
       "email": "caru.eseka@gmail.com",
       "password": "$2b$10$4YoWdzqMEP6KEB2CPis.qeBmOEy8NJyCsMxaeGPPZi.HMKqdu2whC"
+    },
+    {
+      "id": "93e4",
+      "firstName": "Fred",
+      "lastName": "Eseka",
+      "email": "Fred.eseka@gmail.com",
+      "password": "$2b$10$qaRvT9G80p//WVnlyx/Q9u/n94ZaoDcV.mlwUjXNxIH/823FDOlzG"
     }
   ],
   "applications": [
@@ -635,6 +642,15 @@
       "lastName": ",,,,",
       "email": "caru.eseka@gmail.com",
       "coverLetter": "l,l,.,",
+      "resume": "Green and Cream Modern Beauty Service Price List.pdf"
+    },
+    {
+      "id": "a98f",
+      "jobId": "2",
+      "firstName": "Fred",
+      "lastName": "Eseka",
+      "email": "Fred.eseka@gmail.com",
+      "coverLetter": "iyguhopjihgghn ",
       "resume": "Green and Cream Modern Beauty Service Price List.pdf"
     }
   ]
