@@ -59,7 +59,7 @@ Check out the live version of JobNaija here:
 
 <p>🎥 Video Demo</p>
 Watch the demonstration of the project on YouTube:
-<p>https://www.youtube.com/watch?v=</p>
+<p>https://m.youtube.com/watch?v=hD7agMYUUfE&t=2s</p>
 
 🔮 Future Enhancements
 🚀 Upcoming features:
